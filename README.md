@@ -2,16 +2,12 @@
 topic: HTML Hello World
 languages:
   - HTML
-products:
-  - Azure App Service
-  - Azure Web Apps
 ---
 
 # HTML Hello World
 
-This repository can be used as a sample application for Azure App Service exercises.
+This sample demonstrates a minimal “Hello World” HTML application that can be used for exercises and demos.
 
-This sample demonstrates a tiny Hello World HTML app for [App Service](https://docs.microsoft.com/azure/app-service).
 
 # Contributing
 
